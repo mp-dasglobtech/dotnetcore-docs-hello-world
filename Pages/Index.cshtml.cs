@@ -18,5 +18,6 @@ public class IndexModel : PageModel
 
     public void OnGet()
     {        
+        This is an attempt to create error.
     }
 }
